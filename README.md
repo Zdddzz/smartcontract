@@ -21,7 +21,7 @@ Ethereum smart contract similarity measurement at the basic block level based on
 
 
 ### Data Preprocessing
-
+Modify the data set path in data_manager.py
 
 
 ```
