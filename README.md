@@ -34,7 +34,7 @@ $ python data_manager.py
 $ python pretrain.py
 ```
 
-### train
+### Train
 
 ```
 $ python train.py
